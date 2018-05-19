@@ -1,7 +1,7 @@
 # robo-hoover
 Robot hoover that navigates a room and clears dirt
 
-**Robo Hoover is a console application that receives the following inputs;**
+**Robo Hoover is a Nodejs console application that receives the following inputs;**
 <br />
 - room size
 - hoover starting position
