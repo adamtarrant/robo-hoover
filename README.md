@@ -20,7 +20,7 @@ Robot hoover that navigates a room and clears dirt
       `$ node app.js` <br />
       or <br />
       `$ npm start` <br />
-5.	To run automated tests enter either of the following in the same root repo folder;<br />
+5.	To run automated tests enter either of the following in the Git root folder;<br />
       `$ npm test` <br />
       or <br />
       `$ jest` <br />
