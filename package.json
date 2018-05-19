@@ -1,0 +1,19 @@
+{
+  "name": "tray-hoover-challenge",
+  "version": "1.0.0",
+  "description": "Input text file with size, starting, hoover and dirt coordinates and driving instructions for automated hoover. Calculates ending position of hoover with number dirt patches cleared",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Adam Tarrant",
+  "license": "ISC",
+  "engines": {
+    "node": "^9.5.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
