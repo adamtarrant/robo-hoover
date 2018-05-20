@@ -1,5 +1,5 @@
 {
-  "name": "tray-hoover-challenge",
+  "name": "robo-hoover",
   "version": "1.0.0",
   "description": "Input text file with size, starting, hoover and dirt coordinates and driving instructions for automated hoover. Calculates ending position of hoover with number dirt patches cleared",
   "main": "app.js",
